@@ -1,0 +1,35 @@
+{
+  "name": "hareactive-websockets",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/limemloh/hareactive-websockets.git"
+  },
+  "keywords": [
+    "functional",
+    "javascript",
+    "typescript",
+    "hareactive",
+    "funkia"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/limemloh/hareactive-websockets/issues"
+  },
+  "homepage": "https://github.com/limemloh/hareactive-websockets#readme",
+  "description": "",
+  "dependencies": {
+    "@funkia/jabz": "0.0.22"
+  },
+  "peerDependencies": {
+    "@funkia/hareactive": "0.1.1"
+  },
+  "devDependencies": {
+    "@funkia/hareactive": "^0.1.1"
+  }
+}
